@@ -1,0 +1,5 @@
+{
+  "REDIS_HOST": "",
+  "REDIS_PORT": 8763,
+  "REDIS_PASSWORD": ""
+}

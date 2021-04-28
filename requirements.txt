@@ -1,0 +1,3 @@
+grift==0.7.1
+redis==3.5.3
+redisearch==1.0.0
